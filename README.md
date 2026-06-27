@@ -12,19 +12,6 @@ The project began with raw sales data, which was cleaned and transformed using S
 
 The dashboard is designed to make business analysis simple and help users quickly answer common business questions without manually working with spreadsheets.
 
----
-
-# 📷 Dashboard Preview
-
-> **Add your dashboard screenshot here**
-
-```markdown
-![Blinkit Dashboard](Images/Dashboard.png)
-```
-
-*(You can also add 2–3 screenshots below this if your dashboard has multiple pages.)*
-
----
 
 # 🎯 Business Objective
 
@@ -128,11 +115,6 @@ Blinkit-Sales-Analysis
 │   └── Dashboard_Details.png
 │
 ├── README.md
-├── LICENSE
-└── .gitignore
-```
-
----
 
 # 🚀 How to Use
 
