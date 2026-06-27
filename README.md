@@ -115,6 +115,8 @@ Blinkit-Sales-Analysis
 │   └── Dashboard_Details.png
 │
 ├── README.md
+└── .gitignore
+
 
 # 🚀 How to Use
 
